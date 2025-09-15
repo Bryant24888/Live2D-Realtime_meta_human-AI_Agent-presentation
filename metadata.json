@@ -1,0 +1,5 @@
+{
+  "name": "Web 虚拟助手",
+  "description": "一个可拖动、可停靠在侧边栏的网页虚拟助手，基于 React 和 Tailwind CSS 实现。它展示了如何创建一个类似浏览器插件的交互式数字形象。",
+  "requestFramePermissions": []
+}
